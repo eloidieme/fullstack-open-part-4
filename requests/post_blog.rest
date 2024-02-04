@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+
+{
+    "title": "Review: Apple Vision Pro",
+    "author": "Eloi Dieme",
+    "url": "http://www.eloi-tech.blog",
+    "likes": "32451"
+}
